@@ -50,8 +50,6 @@ These insights empower HR managers to take proactive measures and create a more 
 
 ## 📸 Preview
 
-![Dashboard Preview](insert-your-screenshot-or-gif-url-here)
-
 ## 🚦 Getting Started
 
 1. 📥 Clone the repository.
@@ -61,15 +59,5 @@ These insights empower HR managers to take proactive measures and create a more 
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgments
-
-Special thanks to Rishabh Mishra for the engaging YouTube tutorial that guided the creation of this dashboard.
-
----
 
 **Happy Analyzing! 🚀**
